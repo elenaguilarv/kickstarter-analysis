@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends for client who is looking to fund her own theater campaign.
 ### Challenge (Written Report)
 #### Conclusions
-1. Theater plays are generally a successful category in kickstarter projects, while taking some things into consideration.
+1. Theater plays are generally a successful category in kickstarter projects, while taking some things into consideration.![ParentCategory.png](https://github.com/elenaguilarv/kickstarter-analysis/blob/master/ParentCategory.png)
 2. When basing the outcomes of a project on time (launch date), the data shows it is most ideal to launch a theater campaign in the early summer months, particularly the month of May where it reaches a maximum of 111 successful campaigns out of 839 for all months.
 
 ![Outcomes_LaunchDate](https://github.com/elenaguilarv/kickstarter-analysis/blob/master/Outcomes_LaunchDate.png)
